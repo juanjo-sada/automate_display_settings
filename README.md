@@ -1,6 +1,6 @@
 # Automating Windows Display Settings
 
-**This readme only provides some of the context, to get a full guide visit my blog post [here](https://dev.to/juanjosada/automating-windows-display-settings-1c6f)**
+This readme only provides some of the context of the code, and cloning this repo and running it yourself can cause unintended consequences as it **will click on hardcoded coordinates on your screen**. If you want to apply this yourself I highly recommend to read my blog post [here](https://dev.to/juanjosada/automating-windows-display-settings-1c6f) first to understand what's going on, and how to adapt it to your own system.
 
 ---
 
