@@ -14,7 +14,7 @@ So in case it wasn't clear due to my poor writing, this is probably a very niche
 
 I have 3 monitors in my computer setup.
 
-Usually all 3 monitors are used by my PC at the same time, however, I also use monitor 1 for my Xbox. My PC is connected to the monitor via a Display Port cable, while the Xbox uses an HDMI. The issue becomes that if I simply switch the input from DP to HDMI when playing xbox, the PC display remains active, but it's running in the 'background' for the PC. This means that when I move windows around, or open new windows, the 1st display is still fair game, which can make it impossible to keep track of things, as all I see in the main screen is the Xbox interface. So generally I disable the first monitor, making the display settings layout look like this:
+Usually all 3 monitors are used by my PC at the same time, however, I also use monitor 1 for my Xbox. My PC is connected to the monitor via a Display Port cable, while the Xbox uses an HDMI. The issue becomes that if I simply switch the input from DP to HDMI when playing xbox, the PC display remains active, but it's running in the 'background' for the PC. This means that when I move windows around, or open new windows, the 1st display is still fair game, which can make it impossible to keep track of things, as all I see in the main screen is the Xbox interface.
 
 ---
 
